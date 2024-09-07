@@ -1,0 +1,104 @@
+/*----------------------------------------*/
+/*--------------TEXT ALIGN----------------*/
+/*----------------------------------------*/
+.alinhado-esquerda {
+    text-align: left;
+    background-color: aqua;
+}
+
+.alinhado-direita {
+    text-align: right;
+    background-color: blue;
+    padding: 20px;
+}
+
+.alinhado-centro {
+    text-align: center;
+    background-color: goldenrod;
+}
+
+.alinhado-justificado {
+  text-align: justify;
+  background-color: rebeccapurple;
+}
+
+
+
+
+
+/*---------------------------------------*/
+/*----------------GERAL------------------*/
+/*---------------------------------------*/
+.fundo-alinhamento {
+    padding: 20px;
+}
+
+.fundo-transform {
+    padding: 20px;
+    background-color: rebeccapurple;
+}
+
+.fundo-decoration {
+    padding: 20px;
+    background-color: yellowgreen;
+}
+
+.fundo {
+    padding: 20px;
+    background-color: red;
+}
+
+html {
+    font-size: 24px;
+    background-color: grey;
+}
+
+/* Text transform */
+
+.maiuscula {
+    text-transform: uppercase;
+    background-color: red;
+}
+
+.minuscula {
+    text-transform: lowercase;
+    background-color: red;
+}
+
+.capitalizado  {
+    text-transform: capitalize;
+    background-color: red;
+}
+
+/* TEXT DECORATION */
+
+.sublinhado {
+    text-decoration: underline;
+    background-color: red;
+} 
+
+.linha-sobreposta {
+    text-decoration: line-through;
+    background-color: red;
+}
+
+.sem-text-decoration {
+    text-decoration: none;
+}
+
+/*LETTER SPACING*/
+
+.altura-entre-linhas {
+    line-height: 55px;
+    background-color: lime;
+}
+
+/*TEXT SHADOW*/
+
+.sombra-de-texto {
+    text-shadow: 5px 5px 1px purple;
+    text-align: left;
+    padding: 20px;
+    line-height: 50px;
+    background-color: beige;
+}

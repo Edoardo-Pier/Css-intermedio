@@ -1,0 +1,7 @@
+/*VINCULANDO IMAGENS PELO CSS*/
+
+div {
+    background-image: url(../Image/nature\ tunnel\ picture);
+    width: 500px;
+    height: 500px;
+}

@@ -1,0 +1,42 @@
+p {
+    color: white;
+    font-size: 35px;
+    font-weight: bold;
+}
+
+.bg {
+    background-color: lightgreen;
+    background-image: url(./Image/nature\ tunnel\ picture);
+}
+
+.bg-image {
+    width: 513px;
+    height: 340px;
+    
+}
+
+.bg-repeat {
+    background-repeat: no-repeat;
+    height: 540px;
+}
+
+.bg-size-cover {
+    background-size: cover;
+    height: 540px;
+}
+
+.bg-fixed {
+    background-attachment: fixed;
+    height: 540px;
+}
+
+/*VERSAO ENCURTADA*/
+
+/*Sempre que dar usa esta versao encurtada para parecer mais 
+limpo e profesional o codigo*/
+
+.bg-position {
+    height: 540px;
+    background: #000 url(./Image/nature\ tunnel\ picture) no-repeat right bottom;
+   
+}

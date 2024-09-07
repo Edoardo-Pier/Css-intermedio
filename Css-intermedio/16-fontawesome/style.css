@@ -1,0 +1,12 @@
+.fas {
+    color: green;
+    font-size: 100px;
+    position: left;
+    margin: 100px;
+    padding: 10px;
+    
+}
+
+.fas:hover{
+    color: yellowgreen;
+}

@@ -1,0 +1,20 @@
+@font-face {
+    font-family: 'Milky';
+    src: url('./fontes/Milky-Regular.otf'), 
+    url('./fontes/Milky-Regular.ttf');
+}
+
+h1{
+    font-family: 'Milky', Helvetica, sans-serif;
+    font-size: 100px;
+    padding: 10px;
+    background-color: antiquewhite;
+    margin: 10px;
+    border: 10px;
+    text-align: center;
+}
+
+p {
+    font-family: 'Milky', Times, serif;
+    font-size: 60px;
+}
